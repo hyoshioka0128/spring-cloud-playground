@@ -7,7 +7,7 @@ follow [The Twelve-Factor App](https://12factor.net/) methodology and are ready 
 # Getting Started
 * Install [Maven](https://maven.apache.org/install.html) and [Docker](https://docs.docker.com/install/)
 * Access to [azure-spring-cloud.azurewebsites.net](https://azure-spring-cloud.azurewebsites.net/)
-* Sign in with your Azure subscription if you want your Spring Cloud Azure modules to be configured. If you don't have a Azure subscription get a [free one](https://azure.microsoft.com/en-us/free/).
+* Sign in with your Azure subscription if you want your Spring Cloud Azure modules to be configured. If you don't have an Azure subscription get a [free one](https://azure.microsoft.com/en-us/free/).
 * Select the modules you'd like to start with and generate the project.
 * You can run locally with docker compose. Extract and go to project root directory, run the following:
 ```
